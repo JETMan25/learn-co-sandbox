@@ -1,5 +1,5 @@
 class Excecise
-  attr_accessor :name
+  attr_accessor :exercise
   
   @@all = []
   
